@@ -1,8 +1,4 @@
 # ConeVolumeCalculator.py
-# Your job is to write a function in ConeVolumeCalculator.py (call
-# it **calculateConeVolume()** that calculates the volume of a cone
-# factor based on the Volume Calculator
-# Calculator.net (http://www.calculator.net/volume-calculator.html)
 
 import math
 ## volume = 1/3πr2h
